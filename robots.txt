@@ -1,0 +1,9 @@
+# Copyright (c) 2026 Vincenzo Ricciardi. Tutti i diritti riservati.
+# Questo codice è di proprietà esclusiva di Vincenzo Ricciardi, che rimane l'unico proprietario.
+# Il software "Gestione Bocciofila" viene concesso in comodato d'uso gratuito.
+# È vietata la riproduzione, la modifica e la ridistribuzione a terzi senza il consenso scritto del proprietario.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://vincenzoricciardi.eu/Gestione_Bocciofila/sitemap.xml
