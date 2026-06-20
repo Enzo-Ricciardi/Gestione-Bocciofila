@@ -67,6 +67,24 @@ Current priorities:
 - clearer source/build workflow
 - reduction of operational-only artifacts in version control
 
+## Roadmap
+
+### Near term
+
+- document the build and release workflow more clearly
+- reduce historical bundle clutter in future revisions
+- improve contributor onboarding and repository hygiene
+- review operational flows around import/export and printing
+
+### Active priorities
+
+- draw generation reliability
+- player data workflow clarity
+- deployment safety and repeatability
+- cleaner separation between app runtime and server utilities
+
+See also `docs/roadmap.md`.
+
 ## Contributing
 
 See `CONTRIBUTING.md`.
@@ -74,6 +92,12 @@ See `CONTRIBUTING.md`.
 ## Security
 
 See `SECURITY.md`.
+
+## GitHub workflow
+
+- use Issues for bugs and feature requests
+- keep pull requests focused and reviewable
+- avoid committing secrets, activation files, logs, or operational datasets
 
 ## License
 
